@@ -1,5 +1,5 @@
 .\" Manpage for _printf borrowed from the actual printf(3) manual page and may contain some unforeseen errors.
-.TH man 8 "23 October 2018" "1.0" "_printf man page"
+.TH man 8 "20 April 2022" "1.0" "_printf man page"
 .SH NAME
 _printf - format and write a string, character, or integer to stdout
 .SH SYNOPSIS
