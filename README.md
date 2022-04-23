@@ -1,3 +1,5 @@
+This is a collaboration between Bernice Quarshie and Enoch Amenu
+
 Description
 This team project is part of the first year curriculum of ALX School. _printf replicates the C standard library printf() function.
 
